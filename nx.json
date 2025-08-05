@@ -1,4 +1,14 @@
 {
+  "installation": {
+    "version": "21.3.1",
+    "plugins": {
+      "@nx/eslint": "21.1.1",
+      "@nx/eslint-plugin": "21.1.1",
+      "@nx/js": "21.1.1",
+      "@nx/vite": "21.1.1",
+      "@nx/web": "21.1.1"
+    }
+  },
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
   "namedInputs": {
     "default": ["{projectRoot}/**/*", "sharedGlobals"],
