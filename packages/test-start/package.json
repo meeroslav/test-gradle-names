@@ -19,6 +19,6 @@
     "tslib": "^2.3.0"
   },
   "nx": {
-    "name": ":test:start"
+    "name": ":test:start:other-stuff"
   }
 }
